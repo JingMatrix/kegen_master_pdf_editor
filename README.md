@@ -8,7 +8,13 @@ As pointed out [here](https://aur.archlinux.org/packages/masterpdfeditor-libs-in
 
 > I discovered that version **5.6.80** is the very last which can be registered with keygen.
 
-All available verisons can be downloaded from: https://code-industry.ru/public/ .
+All available verisons can be downloaded from internet archive:
+
+1. [For Windows](https://web.archive.org/web/20200919162559if_/https://code-industry.net/public/MasterPDFEditor-setup.exe)
+2. [For Ubuntu](https://web.archive.org/web/20210203220337/https://code-industry.net/public/master-pdf-editor-5.6.80-qt5.x86_64.deb)
+3. [For MacOs](https://web.archive.org/web/20200919165215/https://code-industry.net/public/MasterPDFEditor.dmg)
+
+For other versions, just try to find it out on https://web.archive.org/.
 
 ## demo
 
