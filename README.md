@@ -20,7 +20,7 @@ For other versions, just try to find it out on https://web.archive.org/.
 
 Now I finish my original goal, see [demo](https://jingmatrix.github.io/articles/writings/2019-12-21-Workflow/#writing-documents) here.
 
-**Be offline when you press `activate`**
+Please **be offline when you press `activate`**, or block the host reg.code-industry.net to disable online verification completely.
 
 # FreePascal Support
 
