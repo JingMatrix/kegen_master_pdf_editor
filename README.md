@@ -14,7 +14,7 @@ All available verisons can be downloaded from internet archive:
 2. [For Ubuntu](https://web.archive.org/web/20210203220337/https://code-industry.net/public/master-pdf-editor-5.6.80-qt5.x86_64.deb)
 3. [For MacOs](https://web.archive.org/web/20200919165215/https://code-industry.net/public/MasterPDFEditor.dmg)
 
-For other versions, just try to find it out on https://web.archive.org/.
+For other versions, just try to find it out [here](https://web.archive.org/web/*/https://code-industry.net/public/*).
 
 ## demo
 
